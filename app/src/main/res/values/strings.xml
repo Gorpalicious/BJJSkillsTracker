@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">BJJ Skills Tracker</string>
+    <string name="position_control">Position Control</string>
+    <string name="transitions">Transitions</string>
+    <string name="escapes">Escapes</string>
+    <string name="armlocks">Arm Locks</string>
+    <string name="chokes">Chokes</string>
+    <string name="leglocks">Leg Locks</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="contentDesc_PositionalControl">Button - Positional Control</string>
+    <string name="contentDesc_Transitions">Button - Transitions</string>
+    <string name="contentDesc_Escapes">Button - Escapes</string>
+    <string name="contentDesc_ArmLocks">Button - Arm Locks</string>
+    <string name="contentDesc_Chokes">Button - Chokes</string>
+    <string name="contentDesc_LegLocks">Button - Leg Locks</string>
+    <string name="contentDesc_About">Button - About</string>
+    <string name="contentDesc_Settings">Button - Settings</string>
 </resources>
