@@ -15,7 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-            <ImageView
+            <ImageButton
                 android:id="@+id/button_PositionControl"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -43,7 +43,7 @@
                 app:layout_constraintRight_toRightOf="@id/button_PositionControl"
                 />
 
-            <ImageView
+            <ImageButton
                 android:id="@+id/button_Transitions"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -71,7 +71,7 @@
                 app:layout_constraintTop_toBottomOf="@id/button_Transitions"
                 />
 
-            <ImageView
+            <ImageButton
                 android:id="@+id/button_Escapes"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -98,7 +98,7 @@
                 app:layout_constraintRight_toRightOf="@id/button_Escapes"
                 />
 
-            <ImageView
+            <ImageButton
                 android:id="@+id/button_ArmLocks"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -126,7 +126,7 @@
                 />
 
 
-            <ImageView
+            <ImageButton
                 android:id="@+id/button_Chokes"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -153,7 +153,7 @@
                 app:layout_constraintRight_toRightOf="@id/button_Chokes"
                 />
 
-            <ImageView
+            <ImageButton
                 android:id="@+id/button_LegLocks"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -180,7 +180,7 @@
                 app:layout_constraintTop_toBottomOf="@id/button_LegLocks"
                 />
 
-            <ImageView
+            <ImageButton
                 android:id="@+id/button_About"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -207,7 +207,7 @@
                 app:layout_constraintRight_toRightOf="@id/button_About"
                 />
 
-            <ImageView
+            <ImageButton
                 android:id="@+id/button_Settings"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
